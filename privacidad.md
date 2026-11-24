@@ -4,7 +4,7 @@ title: Política de privacidad de GachaMusume
 
 # Política de privacidad de GachaMusume
 
-Última actualización: 23 de noviembre de 2026.
+Última actualización: 24 de noviembre de 2026.
 
 GachaMusume es el bot de Discord de la comunidad **Umamusume Pretty Derby en Español 2.0**. Es un proyecto de fans, sin relación con Cygames.
 
@@ -20,6 +20,7 @@ GachaMusume es el bot de Discord de la comunidad **Umamusume Pretty Derby en Esp
 - Si votas por el servidor en **Top.gg**: el identificador del voto y tu ID de Discord, para darte la recompensa una sola vez.
 - Las **acciones del staff** que te afectan (por ejemplo, un ajuste de Quilates) quedan en un registro de auditoría.
 - Si sales del servidor, la **fecha de salida**, para borrar tus datos pasado el plazo.
+- Si envías **fan art** para las fichas: el dibujo, el enlace a la publicación original, el alias de su autor/a y tu ID de Discord como remitente. Si pides retirar un fan art, el aviso llega a un canal del staff en Discord con tu ID y el motivo que escribas.
 
 Para la tarjeta de bienvenida y para `/ficha`, el bot descarga tu **avatar de Discord** en ese momento para dibujarlo, y no lo guarda.
 
@@ -51,7 +52,7 @@ En una base de datos en un ordenador del administrador del bot, en **España**, 
 ## Tus derechos
 
 - **Ver tus datos:** usa `/mis-datos` y el bot te enviará un archivo con todo lo que guarda de ti.
-- **Borrarlos:** usa `/borrar-mis-datos`. Se borran tu perfil, tus Quilates, tu colección y tus contadores. El historial de movimientos se conserva sin tu ID de Discord, para que la contabilidad del bot cuadre.
+- **Borrarlos:** usa `/borrar-mis-datos`. Se borran tu perfil, tus Quilates, tu colección y tus contadores. El historial de movimientos se conserva sin tu ID de Discord, para que la contabilidad del bot cuadre. El fan art que enviaste sigue en las fichas, con el crédito de su autor/a, pero sin tu ID.
 - Para cualquier otra petición (rectificación, oposición, limitación), abre un ticket en el servidor.
 
 Si crees que no se respetan tus derechos, puedes reclamar ante la **Agencia Española de Protección de Datos** (AEPD).
@@ -68,6 +69,10 @@ Si tienes **menos de 14 años**, necesitas el **permiso de tu madre, tu padre o 
 - **Top.gg**, solo si votas por el servidor.
 - **Google Drive**, para las copias de seguridad.
 - **GitHub Pages**, que aloja esta página.
+
+## Fan art
+
+Si eres autor/a de un dibujo que sale en una ficha y quieres que lo retiremos, usa `/fanart retirada` o abre un ticket. El staff comprueba que eres su autor/a y lo retira en minutos: deja de salir en las fichas, se borra el archivo y desaparece de las copias de Google Drive en la siguiente subida (como mucho, un día). Esa obra no se puede volver a enviar.
 
 ## Cambios
 
