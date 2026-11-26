@@ -4,7 +4,7 @@ title: GachaMusume
 
 # GachaMusume
 
-Bot de Discord de la comunidad **Umamusume Pretty Derby en Español 2.0**. Proyecto de fans, sin relación con Cygames. Umamusume Pretty Derby © Cygames, Inc.
+Bot de Discord de la comunidad **Umamusume Pretty Derby en Español**. Proyecto de fans, sin relación con Cygames. Umamusume Pretty Derby © Cygames, Inc.
 
 - [Política de privacidad](privacidad)
 - [Términos de uso](terminos)

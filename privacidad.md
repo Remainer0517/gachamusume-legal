@@ -6,7 +6,7 @@ title: Política de privacidad de GachaMusume
 
 Última actualización: 24 de noviembre de 2026.
 
-GachaMusume es el bot de Discord de la comunidad **Umamusume Pretty Derby en Español 2.0**. Es un proyecto de fans, sin relación con Cygames.
+GachaMusume es el bot de Discord de la comunidad **Umamusume Pretty Derby en Español**. Es un proyecto de fans, sin relación con Cygames.
 
 ## Responsable y contacto
 

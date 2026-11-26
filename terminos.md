@@ -6,7 +6,7 @@ title: Términos de uso de GachaMusume
 
 Última actualización: 23 de noviembre de 2026.
 
-GachaMusume es el bot de Discord de la comunidad **Umamusume Pretty Derby en Español 2.0**. Es un proyecto de fans, sin relación con Cygames.
+GachaMusume es el bot de Discord de la comunidad **Umamusume Pretty Derby en Español**. Es un proyecto de fans, sin relación con Cygames.
 
 ## Los Quilates no son dinero
 
